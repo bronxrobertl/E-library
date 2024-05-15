@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+    <resources>
+        <style name="AppTheme.SearchView" parent="Widget.AppCompat.SearchView">
+            <!-- Define the color for the queryHint -->
+            <item name="android:textColorHint">#C80606</item>
+        </style>
+
+    </resources>
+
